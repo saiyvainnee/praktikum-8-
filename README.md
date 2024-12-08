@@ -141,7 +141,6 @@ while True:
     else:
         print("Pilihan tidak valid.")
 ```
-```## Output
 ```Python
 Menu:
 1. Tambah data mahasiswa
