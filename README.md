@@ -51,6 +51,7 @@ flowchart TD
     W --> B
     
     G --> X([Selesai])
+```
 ## input
 ```Python
 class DaftarMahasiswa:
